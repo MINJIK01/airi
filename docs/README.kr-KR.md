@@ -14,11 +14,10 @@
 
 <h1 align="center">Project AIRI</h1>
 
-<p align="center">Neuro-sama 재현、AI 와이프, AI 미소녀 / 버추얼 캐릭터의 영혼을 담을 그릇을 우리의 곁으로.</p>
-<p align="center">Neuro-sama와 같은 버추얼 파트너도 이제, 우리 일상의 일부가 됩니다.</p>
+<p align="center">Neuro-sama 재현, AI 와이푸(Waifu), AI 미소녀 / 버추얼 캐릭터의 영혼을 담을 그릇을 우리 곁으로. <br> Neuro-sama와 같은 버추얼 파트너도 이제, 우리 일상의 일부가 됩니다.</p>
 
 <p align="center">
-  [<a href="https://discord.gg/TgQ3Cu2F7A">Discordサーバーに参加する</a>] [<a href="https://airi.moeru.ai">試してみる</a>] [<a href="https://github.com/moeru-ai/airi/blob/main/README.md">English</a>] [<a href="https://github.com/moeru-ai/airi/blob/main/docs/README.zh-CN.md">简体中文</a>] [<a href="https://github.com/moeru-ai/airi/blob/main/docs/README.ru-RU.md">Русский</a>] [<a href="https://github.com/moeru-ai/airi/blob/main/docs/README.vi.md">Tiếng Việt</a>] [<a href="https://github.com/moeru-ai/airi/blob/main/docs/README.fr.md">Français</a>]
+  [<a href="https://discord.gg/TgQ3Cu2F7A">Discord 서버 참가하기</a>] [<a href="https://airi.moeru.ai">체험하기</a>] [<a href="https://github.com/moeru-ai/airi/blob/main/README.md">English</a>] [<a href="https://github.com/moeru-ai/airi/blob/main/docs/README.zh-CN.md">简体中文</a>] [<a href="https://github.com/moeru-ai/airi/blob/main/docs/README.ja-JP.md">日本語</a>] [<a href="https://github.com/moeru-ai/airi/blob/main/docs/README.ru-RU.md">Русский</a>] [<a href="https://github.com/moeru-ai/airi/blob/main/docs/README.vi.md">Tiếng Việt</a>] [<a href="https://github.com/moeru-ai/airi/blob/main/docs/README.fr.md">Français</a>]
 </p>
 
 <p align="center">
@@ -34,47 +33,47 @@
   <a href="https://trendshift.io/repositories/14636" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14636" alt="moeru-ai%2Fairi | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </p>
 
-> [Neuro-sama](https://www.youtube.com/@Neurosama) に大きな影響を受けました
+> [Neuro-sama](https://www.youtube.com/@Neurosama)에서 깊은 영감을 받음
 
 > [!WARNING]
-> **ご注意：**
-> 当プロジェクトでは、公式の暗号通貨やトークン等は**一切発行しておりません**。誤情報などにご注意ください。
+> **주의：**
+> 해당 프로젝트에서는 공식 암호화폐나 토큰 등을 **일절 발행하지 않습니다**. 잘못된 정보에 주의해 주세요.
 
 > [!NOTE]
 >
-> Project AIRIから生まれたすべてのサブプロジェクト用に、専用の組織[@proj-airi](https://github.com/proj-airi)があります。ぜひチェックしてみてください！
+> Project AIRI에서 파생된 다양한 서브 프로젝트들을 모아둔 [@proj-airi](https://github.com/proj-airi) 조직도 있습니다. 한번 둘러보세요!
 >
-> RAG、メモリシステム、組み込みデータベース、アイコン、Live2Dユーティリティなど多数あります！
+> RAG, 메모리 시스템, 임베디드 데이터베이스, 아이콘, Live2D 유틸리티 등 다양한 프로젝트가 있습니다!
 
-サイバー生命体（サイバーワイフ、デジタルペット）、あるいは一緒に遊んで話せるデジタルコンパニオンを持つことを夢見たことはありますか？
+함께 이야기하고 즐길 수 있는 가상의 존재(사이버 와이푸, 디지털 펫)나 디지털 컴패니언, 한 번쯤 꿈꿔보지 않으셨나요?
 
-[ChatGPT](https://chatgpt.com)や有名な[Claude](https://claude.ai)のような最新の大規模言語モデルの力を借りて、仮想存在に役割演技やチャットを求めることは、すでに誰にとっても十分簡単になっています。[Character.ai（別名c.ai）](https://character.ai)や[JanitorAI](https://janitorai.com/)のようなプラットフォーム、そして[SillyTavern](https://github.com/SillyTavern/SillyTavern)のようなローカルな遊び場は、チャットベースや視覚的なアドベンチャーゲームのような体験のための十分な解決策となっています。
+[ChatGPT](https://chatgpt.com)나 [Claude](https://claude.ai)와 같은 최신 거대언어모델(LLM)의 힘으로, 가상의 존재와 롤플레잉을 하거나 대화를 나누는 건 이제 누구나 쉽게 할 수 있게 되었습니다. [Character.ai(c.ai)](https://character.ai)나 [JanitorAI](https://janitorai.com/)와 같은 플랫폼, 그리고 [SillyTavern](https://github.com/SillyTavern/SillyTavern)과 같은 로컬 플레이그라운드는 채팅 기반의 대화나 시각적인 어드벤처 게임 같은 경험을 즐기기에 이미 충분한 해결책이 되고 있습니다.
 
-> しかし、ゲームをプレイする能力はどうでしょうか？あなたがコーディングしているものを見たり、ゲームをしながらチャットしたり、ビデオを見たり、他の多くのことができる能力は？
+> 하지만, 게임을 직접 플레이하는 능력은 어떨까요? 여러분이 코딩하는 화면을 함께 보고, 게임을 하며 수다를 떨거나, 영상을 같이 시청하는 등 다른 더 많은 것을 할 수 있는 능력은요?
 
-おそらく[Neuro-sama](https://www.youtube.com/@Neurosama)をすでに知っているでしょう。彼女は現在、ゲームをプレイし、チャットし、あなたや参加者（VTuberコミュニティ内）と対話できる最高のコンパニオンです。この種の存在を「デジタルヒューマン」と呼ぶ人もいます。**残念ながら、オープンソースではないため、ライブストリームがオフラインになった後は彼女と対話することはできません**。
+아마 [Neuro-sama](https://www.youtube.com/@Neurosama)에 대해 들어본 적이 있을 겁니다. 현재 게임과 채팅은 물론, 시청자나 다른 참여자들과 상호작용이 가능한 현존하는 최고의 버추얼 스트리머죠. 누군가는 이러한 존재를 '디지털 휴먼'이라 부르기도 합니다. **하지만 아쉽게도 오픈소스로 공개되지 않았기에, 방송이 끝나면 더 이상 그녀와 만날 수 없습니다.**
 
-そのため、このプロジェクトAIRIは、ここで別の可能性を提供します：**簡単に、どこでも、いつでも、あなた自身のデジタルライフ、サイバー生活を所有できるようにします**。
+따라서 Project AIRI는 여기서 새로운 가능성을 제시합니다: **언제 어디서나 손쉽게, 여러분만의 디지털 라이프와 가상의 존재를 온전히 소유할 수 있도록.**
 
-## 投稿した DevLog と最近のアップデート
+## 게시된 DevLog  & 최신 업데이트
 
 - [DevLog @ 2025.10.20](https://airi.moeru.ai/docs/en/blog/DevLog-2025.10.20/) — 2025/10/20
 - [DevLog @ 2025.08.05](https://airi.moeru.ai/docs/en/blog/DevLog-2025.08.05/) — 2025/08/05
 - [DevLog @ 2025.08.01](https://airi.moeru.ai/docs/en/blog/DevLog-2025.08.01/) — 2025/08/01
 - [DevLog @ 2025.07.18](https://airi.moeru.ai/docs/en/blog/DevLog-2025.07.18/) — 2025/07/18
 - [DreamLog 0x1](https://airi.moeru.ai/docs/en/blog/dreamlog-0x1/) — 2025/06/16
-- ...そのほかは[ドキュメントサイト](https://airi.moeru.ai/docs/en/)で
+- ...더 자세한 내용은 [공식 사이트](https://airi.moeru.ai/docs/en/)를 참고하세요
 
-## このプロジェクトの特別な点は？
+## 이 프로젝트가 특별한 이유는?
 
-他のAI駆動のVTuberオープンソースプロジェクトとは異なり、アイリVTuberは開発初日から[WebGPU](https://www.w3.org/TR/webgpu/)、[WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)、[Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)、[WebAssembly](https://webassembly.org/)、[WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)などの多くのWeb技術をサポートしています。
+다른 AI 기반 VTuber 오픈소스 프로젝트와 달리, 아이리(アイリ)는 개발 초기 단계부터 [WebGPU](https://www.w3.org/TR/webgpu/), [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API), [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers), [WebAssembly](https://webassembly.org/), [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket) 등 다양한 웹 기술을 지원하도록 설계되었습니다.
 
 > [!TIP]
-> 「Web技術だとパフォーマンスが落ちない？」と心配ですか？
+> Web 기반 기술이라 성능 저하가 우려되시나요?
 >
-> ご安心を。ブラウザ版はブラウザやWebViewでどこまでできるかを示すためのものですが、そこに完全依存しません。デスクトップ版 AIRI は標準で [NVIDIA CUDA](https://developer.nvidia.com/cuda-toolkit) と [Apple Metal](https://developer.apple.com/metal/) を扱えます（HuggingFace と愛すべき [candle](https://github.com/huggingface/candle) に感謝）。依存管理も複雑ではなく、グラフィックス・レイアウト・アニメーション・プラグインシステム（WIP）は Web 技術を組み合わせつつ、いいとこ取りしています。
+> 걱정하지 마세요. 브라우저 버전은 브라우저나 WebView에서의 잠재력을 보여주기 위한 것일 뿐, 프로젝트는 웹 환경에만 전적으로 의존하지 않습니다. AIRI 데스크톱 버전은 복잡한 의존성 관리 없이도 기본으로 [NVIDIA CUDA](https://developer.nvidia.com/cuda-toolkit)와 [Apple Metal](https://developer.apple.com/metal/)을 지원합니다 (HuggingFace와 [candle](https://github.com/huggingface/candle)에 감사를). 기술적 장단점을 고려하여, 그래픽과 레이아웃, 애니메이션, 그리고 플러그인 시스템(WIP)에는 부분적으로 웹 기술을 활용했습니다.
 
-これは、**アイリVTuberが現代のブラウザやデバイスで動作可能である**ことを意味し、モバイルデバイスでも動作します（PWAサポート済み）。これにより、私たち（開発者）はアイリVTuberの力を次のレベルに引き上げるための多くの可能性を持ちつつ、ユーザーがTCP接続や他の非Web技術を必要とする機能を有効にする柔軟性を残しています。例えば、Discordのボイスチャネルに接続したり、MinecraftやFactorioを友達と一緒にプレイすることができます。
+즉, **아이리(アイリ)는 최신 브라우저와 기기에서 구동 가능**하며, 모바일 기기에서도 실행됨을 의미합니다 (PWA 지원 포함). 이는 우리(개발자)들에겐 아이리(アイリ) VTuber의 기능을 한 차원 더 높일 수 있는 가능성을, 사용자에게는 TCP 연결 등 비 웹 기술이 필요한 기능까지 활용할 수 있는 유연성을 제공합니다. 예컨대 Discord 음성 채널에 접속하거나, 친구들과 Minecraft와 Factorio를 함께 즐기는 것이 가능합니다.
 
 > [!NOTE]
 >
